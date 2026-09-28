@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\bin\Debug\net10.0\IfAndElseAutod.exe
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\bin\Debug\net10.0\IfAndElseAutod.deps.json
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\bin\Debug\net10.0\IfAndElseAutod.runtimeconfig.json
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\bin\Debug\net10.0\IfAndElseAutod.dll
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\bin\Debug\net10.0\IfAndElseAutod.pdb
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.dll
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\refint\IfAndElseAutod.dll
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.pdb
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\ref\IfAndElseAutod.dll
+C:\Users\opilane\source\repos\IfAndElseAutod\IfAndElseAutod\obj\Debug\net10.0\IfAndElseAutod.sourcelink.json
