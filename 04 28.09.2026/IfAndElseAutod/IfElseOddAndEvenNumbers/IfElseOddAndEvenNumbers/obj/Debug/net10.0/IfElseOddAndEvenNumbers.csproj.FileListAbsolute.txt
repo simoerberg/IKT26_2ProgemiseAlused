@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\bin\Debug\net10.0\IfElseOddAndEvenNumbers.exe
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\bin\Debug\net10.0\IfElseOddAndEvenNumbers.deps.json
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\bin\Debug\net10.0\IfElseOddAndEvenNumbers.runtimeconfig.json
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\bin\Debug\net10.0\IfElseOddAndEvenNumbers.dll
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\bin\Debug\net10.0\IfElseOddAndEvenNumbers.pdb
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.sourcelink.json
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.dll
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\refint\IfElseOddAndEvenNumbers.dll
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.pdb
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\IfElseOddAndEvenNumbers.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IKT26_2ProgemiseAlused\04 28.09.2026\IfElseOddAndEvenNumbers\IfElseOddAndEvenNumbers\obj\Debug\net10.0\ref\IfElseOddAndEvenNumbers.dll
